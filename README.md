@@ -1,6 +1,7 @@
 # Vybe AI Telegram Bot — Built with SolanaAgentKit and Vybe Network API
 
-The bot is still in its early stages and currently rate-limited due to my budget constraints for OpenAI API credits. As a result, response times may be slow and answers may occasionally be inaccurate.  
+> The bot is still in its early stages and currently rate-limited due to my budget constraints for OpenAI API credits. As a result, response times may be slow and answers may occasionally be inaccurate. Please don't abuse the bot/spam it. Responses may take upto 10s some times.
+
 **Repository**: [https://github.com/Neeraj138/vibe-ai-tg-bot/tree/main](https://github.com/Neeraj138/vibe-ai-tg-bot/tree/main)
 
 This is a conversational Telegram bot that enables natural language interaction with on-chain Solana data. Built using [SolanaAgentKit](https://kit.sendai.fun/) and [Vybe Network APIs](https://docs.vybenetwork.com/reference/get_known_accounts), the bot supports rich query capabilities across tokens, wallets, programs, and protocols.
