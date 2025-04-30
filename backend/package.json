@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node --files -r dotenv/config src/index.ts",
-    "start": "ts-node --files -r dotenv/config src/index.ts",
+    "start": "nodemon dist/index.js",
     "build": "rimraf dist && tsc",
     "ts.check": "tsc --project tsconfig.json",
     "add-build": "git add dist",
