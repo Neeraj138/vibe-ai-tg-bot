@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node --files -r dotenv/config src/index.ts",
+    "dev": "ts-node --files -r dotenv/config src/index-cli.ts",
     "start": "nodemon dist/index.js",
     "build": "rimraf dist && tsc",
     "ts.check": "tsc --project tsconfig.json",
