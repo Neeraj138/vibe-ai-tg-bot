@@ -1,6 +1,6 @@
 # Vybe AI Telegram Bot — Built with SolanaAgentKit and Vybe Network API
 
-> The bot is still in its early stages and currently rate-limited due to my budget constraints for OpenAI API credits. As a result, response times may be slow and answers may occasionally be inaccurate. Please don't abuse the bot/spam it. Responses may take upto 10s some times.
+> This project is currently not actively developed and archived due to other commitments.
 
 **Repository**: [https://github.com/Neeraj138/vibe-ai-tg-bot/tree/main](https://github.com/Neeraj138/vibe-ai-tg-bot/tree/main)
 
